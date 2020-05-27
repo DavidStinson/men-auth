@@ -1,2 +1,2 @@
-# 015o-directory
-#### Started on: 02-28-2020
+# Auth implemented for chajr v2
+#### Started on: 06-01-20
